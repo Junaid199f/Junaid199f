@@ -36,7 +36,7 @@
 <h2>This Github Repositories are:</h2>
 
 <ol>
-  <li value="1"><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
+  <li value="1"><a href="https://github.com/Junaid199f/InterpretingMachineLearning">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
   <li><a href="https://github.com/Junaid199f/SiameseChangeDetection">Siamese Change Detection</a></li>
   <li><a href="https://github.com/Junaid199f/yolov3">Yolo V3</a></li>
   <li><a href="https://github.com/Junaid199f/PectrolMuscleAppFlask">Flask Pectoral Muscle Web Apps</a></li>
