@@ -37,13 +37,13 @@
 
 <ol>
   <li value="1"><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
-  <li><a href="https://github.com/noumannahmad/Computer-Vision">Computer Vision</a></li>
+  <li><a href="https://github.com/Junaid199f/SiameseChangeDetection">Siamese Change Detection</a></li>
   <li><a href="https://github.com/noumannahmad/Deep-Learning">Deep Learing</a></li>
   <li><a href="https://github.com/noumannahmad/Machine-Learning">Machine Learing</a></li> 
   <li><a href="https://github.com/noumannahmad/Natural-Language-Processing">Natural Language Processing</a></li>
   <li><a href="https://github.com/noumannahmad/OpenCV">OpenCV</a></li>
   <li><a href="https://github.com/noumannahmad/Amazing-Python">Amazing Python</a></li>
-  <li><a href="https://github.com/noumannahmad/Flask">Flask Web Apps</a></li>
+  <li><a href="https://github.com/Junaid199f/PectrolMuscleAppFlask">Flask Pectoral Muscle Web Apps</a></li>
 </ol>
 
 
@@ -88,8 +88,8 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noumannahmad&show_icons=true&locale=en&layout=compact" alt="noumannahmad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid199f&show_icons=true&locale=en&layout=compact" alt="noumannahmad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noumannahmad&show_icons=true&locale=en" alt="noumannahmad" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaid199f&show_icons=true&locale=en" alt="noumannahmad" width="410" /></p>
 
 <hr>
