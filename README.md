@@ -3,17 +3,18 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/junaid199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nouman-ahmad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCGf0tJVpoOdGAoJT1MLdsXw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nouman-ahmad" height="30" width="40" /></a>
-<a href="https://www.facebook.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="noumannahmad" height="30" width="40" /></a>
+<a href="https://www.facebook.com/junaid199f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="noumannahmad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="noumannahmad" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nouman ahmad" height="30" width="40" /></a>
-<a href = "mailto: noumanahmad2609@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/junaid199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nouman ahmad" height="30" width="40" /></a>
+<a href = "mailto: junaid.ali@vu.edu.pk"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
 
 <p align="center">
   <em>
-    This is ME, Nouman ahmad, a <b>MS Scholar </b> graduate from <a href="http://islamabad.comsats.edu.pk/"> <b>COMSATS University Islamabad</b>, Pakistan </a>. <br>
+    This is Muhammad Junaid Ali, Currently working as a Tutor/Instrcutor at Virtual University, Islaambad Campus previously served Research Assistant at Medical Imaging and Diagnostics Lab and  <b>MS Scholar </b> graduated from <a href="http://islamabad.comsats.edu.pk/"> <b>COMSATS University Islamabad</b>, Pakistan </a>. <br>
+    I am passionate researcher who have published a number of research articles and presented in differnt conferences and participated in different challenges. You can acccess my articles at <a href="https://scholar.google.com/citations?user=1uFev8kAAAAJ&hl=en"> .
     A budding <b>Computer Vison & Machine Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
