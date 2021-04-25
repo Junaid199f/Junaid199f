@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    This is Muhammad Junaid Ali, Currently working as a Tutor/Instrcutor at Virtual University, Islaambad Campus previously served Research Assistant at Medical Imaging and Diagnostics Lab and  <b>MS Scholar </b> graduated from <a href="http://islamabad.comsats.edu.pk/"> <b>COMSATS University Islamabad</b>, Pakistan </a>. <br>
+    This is Muhammad Junaid Ali, Currently working as a Tutor/Instructor at Virtual University, Islaambad Campus previously served Research Assistant at Medical Imaging and Diagnostics Lab and  <b>MS Scholar </b> graduated from <a href="http://islamabad.comsats.edu.pk/"> <b>COMSATS University Islamabad</b>, Pakistan </a>. <br>
     I am passionate researcher who have published a number of research articles and presented in differnt conferences and participated in different challenges. You can acccess my articles at <a href="https://scholar.google.com/citations?user=1uFev8kAAAAJ&hl=en"> .
     A budding <b>Computer Vison & Machine Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
@@ -36,7 +36,6 @@
 <h2>This Github Repositories are:</h2>
 
 <ol>
-  <li value="1"><a href="https://github.com/Junaid199f/InterpretingMachineLearning">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
   <li value="1"><a href="https://github.com/Junaid199f/BrainTumorClassification">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
   <li><a href="https://github.com/Junaid199f/SiameseChangeDetection">Siamese Change Detection</a></li>
   <li><a href="https://github.com/Junaid199f/yolov3">Yolo V3</a></li>
