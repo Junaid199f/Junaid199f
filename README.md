@@ -37,6 +37,7 @@
 
 <ol>
   <li value="1"><a href="https://github.com/Junaid199f/InterpretingMachineLearning">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
+  <li value="1"><a href="https://github.com/Junaid199f/SurvivalPredictionTask">Brain tumor survival prediction task</a></li>
   <li value="1"><a href="https://github.com/Junaid199f/BrainTumorClassification">Brain tumor classification</a></li>
   <li><a href="https://github.com/Junaid199f/SiameseChangeDetection">Siamese Change Detection</a></li>
   <li><a href="https://github.com/Junaid199f/yolov3">Yolo V3</a></li>
