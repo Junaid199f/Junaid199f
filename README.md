@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/junaid199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nouman-ahmad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCGf0tJVpoOdGAoJT1MLdsXw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nouman-ahmad" height="30" width="40" /></a>
 <a href="https://www.facebook.com/junaid199f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="noumannahmad" height="30" width="40" /></a>
-<a href="https://www.instagram.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="noumannahmad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/junaid.199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="noumannahmad" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/junaid199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nouman ahmad" height="30" width="40" /></a>
 <a href = "mailto: junaid.ali@vu.edu.pk"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
@@ -39,6 +39,7 @@
   <li value="1"><a href="https://github.com/Junaid199f/BrainTumorClassification">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
   <li><a href="https://github.com/Junaid199f/SiameseChangeDetection">Siamese Change Detection</a></li>
   <li><a href="https://github.com/Junaid199f/yolov3">Yolo V3</a></li>
+   <li><a href="https://github.com/Junaid199f/neuralnetworknumpy">Neural Network from Scratch using numpy</li>
   <li><a href="https://github.com/Junaid199f/PectrolMuscleAppFlask">Flask Pectoral Muscle Web Apps</a></li>
 </ol>
 
