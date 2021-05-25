@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20views&color=0e75b6&style=flat" alt="noumannahmad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidali&label=Profile%20views&color=0e75b6&style=flat" alt="Junaidali" /> </p>
 
  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
@@ -39,6 +39,7 @@
   <li value="1"><a href="https://github.com/Junaid199f/InterpretingMachineLearning">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
   <li value="1"><a href="https://github.com/Junaid199f/DataAugmentationGAN">Data Augmentation on numerical data using conditional GAN></a></li>
   <li value="1"><a href="https://github.com/Junaid199f/SurvivalPredictionTask">Brain tumor survival prediction task</a></li>
+  <li value="1"><a href="https://github.com/Junaid199f/Multi-Task-Learning-for-Brain-Tumor-Classification-and-Semgentation">Multi-Task Brain Tumor Classification and Segmentation></li>
   <li value="1"><a href="https://github.com/Junaid199f/BrainTumorClassification">Brain tumor classification</a></li>
   <li><a href="https://github.com/Junaid199f/SiameseChangeDetection">Siamese Change Detection</a></li>
   <li><a href="https://github.com/Junaid199f/yolov3">Yolo V3</a></li>
